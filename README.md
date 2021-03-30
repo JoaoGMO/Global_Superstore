@@ -1,1 +1,3 @@
-# Global_Superstore challenge
+# Global Superstore Challenge
+
+Dealing with data in tidyverse package
